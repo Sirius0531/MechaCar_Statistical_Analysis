@@ -44,12 +44,15 @@ The results of the T-test for the suspension coils for Lot 3 show the p-value is
 
 ## Study Design: MechaCar vs Competition:
 
-What metric or metrics are you going to test?
+**What metric or metrics are you going to test?**
 Engine type: Electric, Hybrid, Gasoline  vs overall sales
-What is the null hypothesis or alternative hypothesis?
+
+**What is the null hypothesis or alternative hypothesis?**
 Null Hypothesis (Ho): The sales of the MechaCar is based on its engine type.
 Alternative Hypothesis (Ha): The sales of the MechaCar is not based on its engine type.
-What statistical test would you use to test the hypothesis? And why?
+
+**What statistical test would you use to test the hypothesis? And why?**
 A multiple linear regression (multiple factors) would be used to determine the factors that have the highest correlation with the sales. 
-What data is needed to run the statistical test?
+
+**What data is needed to run the statistical test?**
 Selling price, annual/monthly sales and ebgine type of each model. 
