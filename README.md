@@ -17,6 +17,7 @@ mpg = (6.267)vehicle_length + (0.0012)vehicle_weight + (0.0688)spoiler_angle + (
 
 Summary for all manufacturing lots:
 ![new](https://github.com/Sirius0531/MechaCar_Statistical_Analysis/blob/main/Resources/D2%20Lot%20summary.PNG)
+
 Groupby lots:
 ![new](https://github.com/Sirius0531/MechaCar_Statistical_Analysis/blob/main/Resources/D2%20total%20summary.PNG)
 
